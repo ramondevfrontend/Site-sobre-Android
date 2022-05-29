@@ -1,9 +1,4 @@
 # Desafio Site sobre Android
-Desafio feito Pelo Professor Gustavo Guanabra do Curso em Video
-
-<h1 align="center">
- <img src="https://i.ibb.co/VCkwCJm/Android.jpg" alt="Imagem desafio blog">
-</h1>
 
 # Tecnologias utilizadas
 
